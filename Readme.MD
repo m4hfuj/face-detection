@@ -1,5 +1,5 @@
 
-## Referenses
+## References
 
     MTCNN: from facenet_pytorch
 
